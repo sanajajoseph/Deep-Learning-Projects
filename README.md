@@ -27,3 +27,13 @@ With_mask  and without_mask
 
 📈Converted pixel size 128*128. Color- “RGB”
 
+## Tools & Technologies Used
+
+🔹Programming Language: Python
+🔹Libraries:TensorFlow, Keras, OpenCV
+🔹Platform: Google Colab 
+🔹Model Architecture: Convolutional Neural Network
+
+
+
+
